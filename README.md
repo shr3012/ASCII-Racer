@@ -1,7 +1,7 @@
 
 # ASCII Racer 🚗💨
 
-A retro, console-based car racing game built entirely with C++! Navigate your car using simple ASCII visuals, avoid obstacles, and test your reaction skills in this fast-paced game.
+A retro, console-based car racing game built entirely with C++. Navigate your car using simple ASCII visuals, avoid obstacles, and test your reaction skills in this fast-paced game.
 
 
 ## Key Features 🚀
