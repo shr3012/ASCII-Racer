@@ -40,7 +40,7 @@ This project taught me the fundamentals of **console game development** using C+
 To deploy this project run
 
 ```bash
-  git clone https://github.com/yourusername/ascii-racer.git
+  git clone https://github.com/shr3012/ASCII-Racer.git
 ```
 
 Compile and run the code in a C++ environment with Windows API support.
